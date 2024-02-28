@@ -31,3 +31,5 @@ elif codigo == '5':
     print('Você escolheu o refrigerante')
     quant = float(input('Quantos vc quer?\n'))
     print('O valor a ser pago é R$',quant*refri)
+else:
+    print('Obrigado pelo pedido!!')
